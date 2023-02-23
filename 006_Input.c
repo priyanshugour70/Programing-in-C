@@ -1,4 +1,6 @@
-#include <stdio.h>l
+#include <stdio.h>
+
+// This Code is Writen By Priyanshu Gour
 
 int main(){
 
