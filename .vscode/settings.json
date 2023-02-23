@@ -28,5 +28,11 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp.errorSquiggles": "disabled"
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.js": "javascriptreact",
+    "*.jav": "java",
+    "stdio.h": "c"
+  }
 }

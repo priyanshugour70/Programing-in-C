@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Writen By Priyanshu Gour
+
 int main(){
 
     // Output is the why the print any thing.
