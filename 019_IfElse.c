@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This Code is Writen By Priyanshu Gour
+
 int main(){
 
     int a = 10 , b = 5 ;
