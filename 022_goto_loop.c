@@ -1,4 +1,7 @@
-#include <stdio.h>  
+#include <stdio.h>
+
+// This Code is Writen By Priyanshu Gour
+
 int main()   {  
     int num,i=1;   
     printf("Enter the number whose table you want to print?");   
