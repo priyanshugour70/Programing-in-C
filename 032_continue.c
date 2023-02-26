@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Writen By Priyanshu Gour
+
 int main(){
 
     for(int i = 5 ; 50 >= i ; i++){
