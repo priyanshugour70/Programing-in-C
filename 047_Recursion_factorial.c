@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Writen By Priyanshu Gour
+
 int factorial(int n);
 
 int main(){
