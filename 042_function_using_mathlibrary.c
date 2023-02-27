@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
+// This Code is Writen By Priyanshu Gour
+
 void square(float i);
 
 int main(){
