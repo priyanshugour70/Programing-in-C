@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// This Code is Writen By Priyanshu Gour
+
 float areaofcircle(float r);
 float areaofrectangle(float l ,float w);
 float areaofsquare(float s);
