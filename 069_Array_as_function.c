@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 void arrayinfunction(int arr[],int n);
 
 int main(){
