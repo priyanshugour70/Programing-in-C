@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 int main(){
 
     float price = 18.6 ;
