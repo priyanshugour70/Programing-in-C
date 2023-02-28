@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 int main(){
 
     // Marks of 2 Student in 3 Stubjects .
