@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 void prosumdiv(int J,int i, int *sum, int *pro, int *avg);
 
 int main(){
