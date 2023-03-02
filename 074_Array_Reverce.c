@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 void revercearray(int rev[],int s);
 
 int main(){
