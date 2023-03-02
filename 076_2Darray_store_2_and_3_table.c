@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 void twotable(int arr[][10],int n,int num);
 
 int main(){
