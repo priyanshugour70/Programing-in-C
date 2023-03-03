@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 int main(){
 
     char new1[] = "Devanshu";
