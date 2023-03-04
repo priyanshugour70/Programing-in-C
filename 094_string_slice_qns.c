@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
+// This Code is Written By Priyanshu Gour
+
 void slice(char arr[]);
 
 int main(){
