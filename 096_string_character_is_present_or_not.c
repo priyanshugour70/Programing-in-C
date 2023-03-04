@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdio.h>
 
+// This Code is Written By Priyanshu Gour
+
 void checkpresentornot(char str[],char ch);
 
 int main(){
