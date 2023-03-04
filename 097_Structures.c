@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<string.h>
 
+// This Code is Written By Priyanshu Gour
+
 struct student{
     int rollno ;
     float cgpa ;
