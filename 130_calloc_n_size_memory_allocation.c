@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+// This Code is Written By Priyanshu Gour
+
+
 int main(){
 
     int n ;
