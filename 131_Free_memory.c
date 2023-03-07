@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+// This Code is Written By Priyanshu Gour
+
+
 int main(){
     int *ptr ;
     ptr = (int*) calloc(5,sizeof(int));
